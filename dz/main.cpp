@@ -75,7 +75,7 @@ int main()
 
 	x.subt(2, 5);
 	x.Print();
-
+	 
 
 
 
